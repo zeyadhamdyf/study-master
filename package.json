@@ -2,6 +2,7 @@
   "name": "study-master",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://zeyadhamdyf.github.io/study-master",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
